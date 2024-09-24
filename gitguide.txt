@@ -2,11 +2,10 @@
 2) git remote add <имя репозитория> https://______________.git (http путь нужного репозитория)
 3) git add <имя файла>
 4) git commit -m "Текст"
-5) git push <имя репозитория> master
-6) git branch -f main master (создаем branch main)
-7) git checkout main (переключаемся на ветку main)
-8) git branch -D master (удаляем branch master)
-9) git push -f -u <имя репозитория> main
+5) git branch -f main master (создаем branch main)
+6) git checkout main (переключаемся на ветку main)
+7) git branch -D master (удаляем branch master)
+8) git push -f -u <имя репозитория> main
 
 (git branch -f main master - если надо создать branch main, пишем перед тем как пушить)
 
